@@ -71,7 +71,7 @@ export default function Home() {
   return (
     <div className="min-h-screen py-8 bg-gray-50">
       <Head>
-        <title>YOUR_ROLL_NUMBER</title>
+        <title>Data Processing Application</title>
         <meta name="description" content="Data Processing Application" />
       </Head>
 
